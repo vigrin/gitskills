@@ -1,4 +1,5 @@
 # gitskills
+##add /usr/bin/env
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 =======

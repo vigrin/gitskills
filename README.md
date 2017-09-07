@@ -11,3 +11,5 @@ Add merge
 >>>>>>> dev
 
 fix  bug 101
+
+add /usr/bin/env
